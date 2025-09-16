@@ -1,4 +1,4 @@
-# 🪙 Cryptocurrency Data Fetcher (Python)
+# 🪙 Crypto Data Fetcher (Python)
 
 A simple Python project that pulls **real-time cryptocurrency data** (like Bitcoin, Ethereum, Dogecoin, etc.) using the **CoinGecko API**.
 This tool displays the current **price, market cap, and 24h percentage change** of your favorite crypto.
