@@ -8,9 +8,13 @@ This tool displays the current **price, market cap, and 24h percentage change** 
 ## 🔹 Features
 
 ✔ Fetch live crypto prices in **USD**
+
 ✔ View **market capitalization**
+
 ✔ Check **24-hour price change (%)**
+
 ✔ User-friendly command-line interaction
+
 ✔ No API key required — uses **CoinGecko’s free API**
 
 ---
